@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Sanjeev Kapoor",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+        "experience": "5 years",
+        "number_of_recipes": 50,
+        "likes": 1000
+    },
+    {
+        "id": 2,
+        "name": "Vikas Khanna",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india2.jpg",
+        "experience": "3 years",
+        "number_of_recipes": 30,
+        "likes": 500
+    },
+    {
+        "id": 3,
+        "name": "Ranveer Brar",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
+        "experience": "10 years",
+        "number_of_recipes": 100,
+        "likes": 2000
+    },
+    {
+        "id": 4,
+        "name": "Madhur Jaffrey",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india4.jpg",
+        "experience": "2 years",
+        "number_of_recipes": 20,
+        "likes": 300
+    },
+    {
+        "id": 5,
+        "name": "Anjum Anand",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india5.jpg",
+        "experience": "7 years",
+        "number_of_recipes": 70,
+        "likes": 1500
+    },
+    {
+        "id": 6,
+        "name": "Hari Nayak",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india6.jpg",
+        "experience": "4 years",
+        "number_of_recipes": 40,
+        "likes": 800
+    },
+    {
+        "id": 7,
+        "name": "Vineet Bhatia",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india7.jpg",
+        "experience": "6 years",
+        "number_of_recipes": 60,
+        "likes": 1200
+    },
+    {
+        "id": 8,
+        "name": "Nita Mehta",
+        "pic_url": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india8.jpg",
+        "experience": "1 year",
+        "number_of_recipes": 10,
+        "likes": 100
+    }
+]
