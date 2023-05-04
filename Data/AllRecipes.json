@@ -26,7 +26,7 @@
             "ginger",
             "spices"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/53112539.cms?imgsize=122576&width=509&height=340",
         "cooking_method": "Marinate the chicken in yogurt and spices, grill it and simmer it in a tomato-based sauce with onion, garlic, and ginger.",
         "rating": 4.5,
         "chef_id": 1
@@ -43,7 +43,7 @@
             "paprika"
         ],
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/53114434.cms?imgsize=126467&width=509&height=340",
         "rating": 4.2,
         "chef_id": 1
     },
@@ -60,7 +60,7 @@
         ],
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
-        "rating": 4.2,
+        "rating": 4.9,
         "chef_id": 2
     },
     {
@@ -74,9 +74,9 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/53502456.cms?imgsize=76977&width=509&height=340",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
-        "rating": 4.2,
+        "rating": 3.9,
         "chef_id": 2
     },
     {
@@ -89,7 +89,7 @@
             "sour cream",
             "beef broth",
             "paprika"
-        ],"img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        ],"img": "https://static.toiimg.com/thumb/62786057.cms?width=573&height=382",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
         "chef_id": 2
@@ -105,10 +105,10 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/68860402.cms?width=573&height=382",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 2
+        "chef_id": 3
     },
     {
         "id": "01H",
@@ -121,7 +121,7 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/99982895.cms?width=573&height=382",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
         "chef_id": 3
@@ -137,7 +137,7 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/99982138.cms?width=573&height=382",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
         "chef_id": 3
@@ -153,10 +153,10 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/99968865.cms?width=573&height=382",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 3
+        "chef_id": 4
     },
     {
         "id": "01K",
@@ -204,7 +204,7 @@
         "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 4
+        "chef_id": 5
     },
     {
         "id": "01N",
@@ -220,7 +220,7 @@
         "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 4
+        "chef_id": 5
     },
     {
         "id": "01O",
@@ -249,10 +249,10 @@
             "beef broth",
             "paprika"
         ],
-        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "img": "https://static.toiimg.com/thumb/99969197.cms?imgsize=56424&width=509&height=340",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 5
+        "chef_id": 6
     },
     {
         "id": "01Q",
@@ -268,7 +268,7 @@
         "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
-        "chef_id": 5
+        "chef_id": 6
     },
     {
         "id": "01R",
@@ -285,6 +285,102 @@
         "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
         "rating": 4.2,
         "chef_id": 6
+    },
+    {
+        "id": "01S",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 3.2,
+        "chef_id": 7
+    },
+    {
+        "id": "01T",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/99969197.cms?imgsize=56424&width=509&height=340",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 5.0,
+        "chef_id": 7
+    },
+    {
+        "id": "01U",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/53112421.cms?imgsize=75646&width=509&height=340",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 4.5,
+        "chef_id": 7
+    },
+    {
+        "id": "01V",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/99969197.cms?imgsize=56424&width=509&height=340",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 2.2,
+        "chef_id": 8
+    },
+    {
+        "id": "01W",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/99969197.cms?width=573&height=382",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 5.0,
+        "chef_id": 8
+    },
+    {
+        "id": "01X",
+        "name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "paprika"
+        ],
+        "img": "https://static.toiimg.com/thumb/69128264.cms?imgsize=449223&width=509&height=340",
+        "cooking_method": "Saute the beef and mushrooms, add onion and paprika, then stir in sour cream and beef broth and let it simmer until thickened.",
+        "rating": 4.2,
+        "chef_id": 8
     }
     
 ]
