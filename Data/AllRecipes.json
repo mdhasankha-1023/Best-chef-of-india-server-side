@@ -1,6 +1,6 @@
 [
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab0a",
+        "id": "01A",
         "name": "Spaghetti Carbonara",
         "ingredients": [
             "spaghetti",
@@ -15,7 +15,7 @@
         "chef_id": 1
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab1a",
+        "id": "01B",
         "name": "Chicken Tikka Masala",
         "ingredients": [
             "chicken breasts",
@@ -32,7 +32,7 @@
         "chef_id": 1
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab2a",
+        "id": "01C",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -48,7 +48,7 @@
         "chef_id": 1
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab3a",
+        "id": "01D",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -64,7 +64,7 @@
         "chef_id": 2
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab4a",
+        "id": "01E",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -80,7 +80,7 @@
         "chef_id": 2
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab5a",
+        "id": "01F",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -95,7 +95,7 @@
         "chef_id": 2
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "id": "01G",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -111,7 +111,7 @@
         "chef_id": 2
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab7a",
+        "id": "01H",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -127,7 +127,7 @@
         "chef_id": 3
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab8a",
+        "id": "01I",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -143,7 +143,7 @@
         "chef_id": 3
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab9a",
+        "id": "01J",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -159,7 +159,7 @@
         "chef_id": 3
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab10a",
+        "id": "01K",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -175,7 +175,7 @@
         "chef_id": 4
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab11a",
+        "id": "01L",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -191,7 +191,7 @@
         "chef_id": 4
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab12a",
+        "id": "01M",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -207,7 +207,7 @@
         "chef_id": 4
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab13a",
+        "id": "01N",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -223,7 +223,7 @@
         "chef_id": 4
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab14a",
+        "id": "01O",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -239,7 +239,7 @@
         "chef_id": 5
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab15a",
+        "id": "01P",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -255,7 +255,7 @@
         "chef_id": 5
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab16a",
+        "id": "01Q",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
@@ -271,7 +271,7 @@
         "chef_id": 5
     },
     {
-        "id": "0282e0e58a5c404fbd15261f11c2ab17a",
+        "id": "01R",
         "name": "Beef Stroganoff",
         "ingredients": [
             "beef sirloin",
